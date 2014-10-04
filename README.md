@@ -3,6 +3,8 @@
 
 A Chrome extension that displays in the address bar whether a secure site is using SHA-2 or SHA-1.
 
+It queries https://shaaaaaaaaaaaaa.com/api/check/<hostname> with the hostname of the URL in the current tab.  It only performs this query if you visit a secure site.  Only the hostname portion is sent to https://shaaaaaaaaaaaaa.com.
+
 ## Installing
 
 Since this extension is unpacked, install it like this:
