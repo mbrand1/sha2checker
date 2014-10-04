@@ -3,10 +3,10 @@ chrome.runtime.onMessage.addListener(function (res, sender) {
 	chrome.pageAction.show(tab.id);
 
 	var icon = 'sha1';
-	var tooltip = ' is using SHA-1.';
+	var tooltip = ' is using SHA-1';
 	if (res.cert.algorithm.match(/^sha2/)) {
 		icon = 'sha2';
-		tooltip = ' is using SHA-2.';
+		tooltip = ' is using SHA-2';
 	}
 
 	// change the icon

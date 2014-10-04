@@ -1,7 +1,20 @@
 
 # SHA-2 checker
 
-Displays in the address bar whether a secure site is using SHA-2 or SHA-1.
+A Chrome extension that displays in the address bar whether a secure site is using SHA-2 or SHA-1.
+
+## Installing
+
+Since this extension is unpacked, install it like this:
+
+1. Clone this repo or download in .ZIP format
+2. Extract the individual files into a folder (if zipped)
+3. In Chrome, navigate to chrome://extensions/
+4. Select *Developer Mode*
+5. Click **Load Unpacked Extension...**
+6. Navigate to the folder where you placed the repo files
+7. Click **Open**
+
 
 ## Changelog
 
