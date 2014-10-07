@@ -20,15 +20,23 @@ Since this extension is unpacked, install it like this:
 
 ## Changelog
 
+**0.2.0 - 2014-10-07**
+
+    * Added icon
+
 **0.1.0 - 2014-10-04**
 
     * Initial release
 
 ## Credits
 
+<div>Icon made by <a href="http://www.simpleicon.com" title="SimpleIcon">SimpleIcon</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
+
+<a href="http://commons.wikimedia.org/wiki/File:Google_Chrome_icon_(2011).svg#mediaviewer/File:Google_Chrome_icon_(2011).svg">Google Chrome icon (2011)</a> by Google Inc. - <a rel="nofollow" class="external free" href="http://www.google.com/press/images.html">http://www.google.com/press/images.html</a>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
+
 Guillermo Rauch's spdy-indicator extension for inspiration
 
-## License
+## Licenses
 
 The MIT License (MIT)
 

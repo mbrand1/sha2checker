@@ -9,10 +9,13 @@
       "run_at": "document_start"
    } ],
    "description": "Displays in the address bar whether a secure site is using SHA-2 or SHA-1.",
+   "icons": {
+      "128": "linkicon.png"
+   },
    "manifest_version": 2,
    "name": "SHA-2 checker",
    "page_action": {
    },
    "permissions": [ "tabs", "https://shaaaaaaaaaaaaa.com/" ],
-   "version": "0.1.0"
+   "version": "0.2.0"
 }
