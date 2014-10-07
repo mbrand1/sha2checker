@@ -34,7 +34,7 @@ Since this extension is unpacked, install it like this:
 <br>
 <a href="http://commons.wikimedia.org/wiki/File:Google_Chrome_icon_(2011).svg#mediaviewer/File:Google_Chrome_icon_(2011).svg">Google Chrome icon (2011)</a> by Google Inc. - <a rel="nofollow" class="external free" href="http://www.google.com/press/images.html">http://www.google.com/press/images.html</a>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
 
-Guillermo Rauch's spdy-indicator extension for inspiration
+Guillermo Rauch's [spdy-indicator](https://github.com/guille/chrome-spdy-indicator) for inspiration
 
 ## Licenses
 
