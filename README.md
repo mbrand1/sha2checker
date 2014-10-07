@@ -1,5 +1,5 @@
 
-# SHA-2 checker
+# ![Alt linkicon](https://github.com/mbrand1/sha2checker/blob/master/linkicon.png) SHA-2 checker
 
 A Chrome extension that displays in the address bar whether a secure site is using SHA-2 or SHA-1.
 
